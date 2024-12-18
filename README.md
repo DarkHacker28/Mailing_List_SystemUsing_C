@@ -24,7 +24,7 @@ To install and run this project:
 
 # Clone the repository :
 
-git clone https://github.com/yourusername/mailing-list-system.git
+git clone https://github.com/DarkHacker28/Mailing_List_SystemUsing_C
 
 Navigate to the project folder:
 cd mailing-list-system
